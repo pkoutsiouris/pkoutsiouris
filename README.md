@@ -1,6 +1,4 @@
-<div align="right">
-  <img height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
-</div>
+<img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
 ###
 
@@ -17,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 </div>
 
 ###
