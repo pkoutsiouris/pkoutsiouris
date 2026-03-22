@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
 ###
@@ -11,12 +17,6 @@
 ###
 
 <p align="left">- 🔭 I’m a undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-</div>
 
 ###
 
