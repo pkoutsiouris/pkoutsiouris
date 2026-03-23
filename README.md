@@ -1,4 +1,4 @@
-<div align="left"><a href="https://www.linkedin.com/in/panagiotis-k-73339a397/">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 </div>
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m an undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
+<p align="left">- 🔭 I’m a undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
 
 ###
 
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
