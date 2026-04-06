@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
+<p align="left">- 🔭 I’m an undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
 
 ###
 
