@@ -1,5 +1,4 @@
 <div align="left">
-  <a href="https://www.linkedin.com/in/panagiotis-k-73339a397/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 </div>
 
@@ -17,11 +16,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m an undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
+<p align="left">- 🔭 I’m a undergraduate student at the University of West Attica<br>- This Github page will include personal projects as well as university assignments.</p>
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -46,6 +45,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkoutsiouris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pkoutsiouris&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
