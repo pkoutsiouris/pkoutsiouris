@@ -1,4 +1,5 @@
 <div align="left">
+    <a href="https://www.linkedin.com/in/panagiotis-k-73339a397/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 </div>
 
